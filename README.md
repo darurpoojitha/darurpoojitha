@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi, I'm Poojitha
 
-<!--
-**darurpoojitha/darurpoojitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BTech Computer Science Engineering student  
+Interested in Web Development and DSA  
+Learning Open Source and GitHub  
+Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+Skills
+- HTML, CSS, JavaScript
+- Java / Python
+- Git and GitHub
+- DSA Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me
+- GitHub: https://github.com/darurpoojitha
+- LinkedIn:www.linkedin.com/in/darurpoojitha 
